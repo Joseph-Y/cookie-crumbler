@@ -6,6 +6,8 @@ Cookie Crumbler is a lightweight Safari extension that blocks cookie popups, ban
 	•	100% client-side
 	•	One-click install from the Mac App Store
 
+ What makes this different than other Safari extensions available on the market is that it requires no special permissions (whereas other extensions can monitor your browsing). 
+
 ⸻
 
 🔐 Privacy Policy (for GitHub and App Store submission)
